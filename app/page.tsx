@@ -83,9 +83,9 @@ export default function Home() {
               <div className="absolute -left-16 bottom-10 h-48 w-48 rounded-full bg-accent/10 blur-3xl" />
               <Image
                 src="/hero.jpg"
-                alt="Dental clinic interior"
+                alt="НАВИТИ стоматология"
                 width={800}
-                height={700}
+                height={600}
                 className="relative h-full w-full object-cover"
               />
             </div>
