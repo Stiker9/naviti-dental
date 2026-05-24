@@ -296,19 +296,19 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="py-24 rounded-[32px] bg-primary px-8 text-white shadow-card sm:px-12">
+        <section className="py-24 rounded-[32px] bg-[#1B6CA8] px-8 text-white shadow-card sm:px-12">
           <div className="grid gap-6 lg:grid-cols-[1.3fr_0.7fr] lg:items-center">
             <div>
               <p className="text-sm font-semibold uppercase tracking-[0.24em] text-white/75">Не откладывайте</p>
-              <h2 className="mt-4 text-3xl font-heading font-semibold leading-tight">Не откладывайте здоровье на потом</h2>
+              <h2 className="mt-4 text-3xl font-heading font-semibold leading-tight text-white">Не откладывайте здоровье на потом</h2>
               <p className="mt-4 max-w-xl text-base leading-7 text-white/90">Первичная консультация — бесплатно</p>
             </div>
             <div className="flex items-center justify-start">
               <a
                 href="#appointment"
-                className="inline-flex items-center justify-center rounded-3xl bg-white px-6 py-4 text-sm font-semibold text-primary transition hover:bg-slate-100"
+                className="inline-flex items-center justify-center rounded-3xl bg-[#F5A623] px-8 py-4 text-sm font-semibold text-text transition hover:bg-[#d19f18]"
               >
-                Записаться онлайн
+                Записаться на приём
               </a>
             </div>
           </div>
