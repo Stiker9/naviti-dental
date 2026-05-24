@@ -82,7 +82,7 @@ export default function Home() {
               <div className="absolute -right-14 top-10 h-52 w-52 rounded-full bg-primary/10 blur-3xl" />
               <div className="absolute -left-16 bottom-10 h-48 w-48 rounded-full bg-accent/10 blur-3xl" />
               <Image
-                src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800&h=700&fit=crop"
+                src="/hero.jpg"
                 alt="Dental clinic interior"
                 width={800}
                 height={700}
