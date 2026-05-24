@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "21st-dev": {
+      "command": "npx",
+      "args": ["-y", "@21st-dev/mcp@latest", "21st_sk_af3fd08220b187f1f06e9009347752758bac818bf00e522ea19c6c211418f258"]
+    }
+  }
+}
